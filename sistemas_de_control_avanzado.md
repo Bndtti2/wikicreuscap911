@@ -1,10 +1,3 @@
----
-title: Sistemas de Control Avanzado
-capitulo: 9
-autor: Estudiante de Ingeniería Electrónica
-fuente: Instrumentación Industrial (8ª ed.) - Antonio Creus
----
-
 # Sistemas de Control Avanzado
 
 La industria actual adopta técnicas más inteligentes:
