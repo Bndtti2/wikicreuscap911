@@ -1,10 +1,3 @@
----
-title: Otros Tipos de Control
-capitulo: 9
-autor: Estudiante de Ingeniería Electrónica
-fuente: Instrumentación Industrial (8ª ed.) - Antonio Creus
----
-
 # Otros Tipos de Control
 
 Además del PID, existen variantes más específicas:
