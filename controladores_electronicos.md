@@ -1,9 +1,3 @@
----
-title: Controladores Electrónicos
-capitulo: 9
-autor: Estudiante de Ingeniería Electrónica
-fuente: Instrumentación Industrial (8ª ed.) - Antonio Creus
----
 
 # Controladores Electrónicos
 
