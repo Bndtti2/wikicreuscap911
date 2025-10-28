@@ -1,10 +1,3 @@
----
-title: Características del Proceso
-capitulo: 9
-autor: Estudiante de Ingeniería Electrónica
-fuente: Instrumentación Industrial (8ª ed.) - Antonio Creus
----
-
 # Características del Proceso
 
 Cada proceso industrial tiene un comportamiento dinámico distinto. Es importante conocer parámetros como:
