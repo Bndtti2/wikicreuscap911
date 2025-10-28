@@ -1,10 +1,3 @@
----
-title: Tipos de Control
-capitulo: 9
-autor: Estudiante de Ingeniería Electrónica
-fuente: Instrumentación Industrial (8ª ed.) - Antonio Creus
----
-
 # Tipos de Control
 
 Los modos de control definen cómo un sistema responde al error entre la variable medida y el valor deseado.
